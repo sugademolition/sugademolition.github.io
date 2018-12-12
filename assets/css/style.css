@@ -227,7 +227,7 @@
 }
 .menu-style-1{}
 .menu-style-1 .main-menu ul li > a {
-  color: #000000;
+  color: #ffffff;
   font-size: 14px;
   padding: 12px 1px;
   text-transform: uppercase;
@@ -273,7 +273,7 @@
 .header-menu .scroll-header .menu-icon a {color:#000;}
 /* sub-menu */
 .main-menu ul li .sub-menu {
-  background: #000000 none repeat scroll 0 0;
+  background: #ffffff none repeat scroll 0 0;
   border-top: 3px solid #996600;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
   left: 0;
